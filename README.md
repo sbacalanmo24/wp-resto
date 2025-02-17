@@ -1,0 +1,2 @@
+# wp-resto
+wp template
